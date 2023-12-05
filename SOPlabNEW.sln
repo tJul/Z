@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPlabNEW", "SOPlabNEW.csproj", "{9281BCC8-4668-4FA3-B253-B2B4AA7B077E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9281BCC8-4668-4FA3-B253-B2B4AA7B077E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9281BCC8-4668-4FA3-B253-B2B4AA7B077E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9281BCC8-4668-4FA3-B253-B2B4AA7B077E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9281BCC8-4668-4FA3-B253-B2B4AA7B077E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67C1C99-DEC8-4364-86D4-3089C1217360}
+	EndGlobalSection
+EndGlobal
